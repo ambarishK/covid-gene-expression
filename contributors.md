@@ -1,6 +1,7 @@
 | Name | Affiliation | ORCID |
 | --- | --- | --- |
 | Ferrarini, Mariana G | University of Lyon, INSA-Lyon, INRA, BF2I, UMR0203, F-69621, Villeurbanne, France | https://orcid.org/0000-0002-9574-9991 |
+| Kumar, Ambarish | Jawaharlal Nehru University, New Delhi, India | https://orcid.org/0000-0002-4923-046X |
 | Aguiar-Pulido, Vanessa | Weill Cornell Medicine, Cornell University, New York, NY, USA | N/A |
 | Busby, Ben | DNAnexus, Mountain View, CA, USA | N/A |
 | Dawson, Eric T | Division of Cancer Epidemiology and Genetics, National Cancer Institute, Rockville Maryland, USA | https://orcid.org/0000-0001-5448-1653 |
